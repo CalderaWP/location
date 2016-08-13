@@ -1,0 +1,19 @@
+{
+  "name": "calderawp/location",
+  "description": "Get GeoIP data via IP",
+  "type": "library",
+  "license": "GPLv2+",
+  "authors": [
+    {
+      "name": "Josh Pollock",
+      "email": "Josh@calderawp.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "calderawp\\location\\": "src/"
+    }
+  }
+}
