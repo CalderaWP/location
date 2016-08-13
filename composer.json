@@ -10,7 +10,9 @@
     }
   ],
   "minimum-stability": "dev",
-  "require": {},
+  "require": {
+    "calderawp/object": "*"
+  },
   "autoload": {
     "psr-4": {
       "calderawp\\location\\": "src/"
